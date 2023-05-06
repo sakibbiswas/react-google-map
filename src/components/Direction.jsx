@@ -33,7 +33,7 @@ const Direction = ({ origin, destination }) => {
                         width: '100%'
                     }}
                     // required
-                    zoom={16}
+                    zoom={13}
                     // required
                     center={{
                         lat: 0,
